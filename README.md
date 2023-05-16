@@ -7,4 +7,4 @@ The Data published from 2014 to 2017 contains several KPI values to drive the bu
 ## Objective
 The Report is to tackle the problem around the sales distribution and discount thereby increasing sales revenue and also reducing expenses by churning inventory and handle the skewed inventory problem.  
   <br />
-![Super Store Sales Dashboard](https://github.com/PreetalM/Super-Store-Sales-Report/blob/main/Super-Store-Sales-Dashboard.jpg)
+![Super Store Sales Dashboard](https://github.com/PreetalM/Excel-Super-Store-Sales-Report/blob/main/Super-Store-Sales-Dashboard.jpg)
