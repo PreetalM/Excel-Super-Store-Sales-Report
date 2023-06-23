@@ -1,5 +1,6 @@
 # Excel-Super-Store-Sales-Report
 This project consists of an excel dashboard on the Super Store Sales data. After careful analysis of the pivoted data there were several findings and recommendations to improve sales and evenly distribute investment across the store branches that have been published in this excel report.
+To view Tableau Super Store Sales Dashboard: [click here](https://public.tableau.com/app/profile/preetal/viz/SuperStoreSalesDataAnalysis_16874870976810/SuperStoreSalesDataAnalysis)
 
 ## General Information
 The Data published from 2014 to 2017 contains several KPI values to drive the business decision. Insights drawn are through Excel Pivot Tables and Charts to display report on the KPIs by using Chart, Bar, Line, Pie & Graph.
